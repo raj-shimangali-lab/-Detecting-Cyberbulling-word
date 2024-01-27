@@ -1,2 +1,2 @@
-# -Detecting-Cyberbulling-word
-on-social-media
+# cyberbulling-detection-
+detecting bulling words on social media
